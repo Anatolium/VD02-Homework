@@ -5,7 +5,7 @@ body {
 .header {
     height: 100px;
     color: white;
-    background-color: #79bb7b;
+    background-color: #79bb7b; /* Светло-зелёный */
     display: flex;
     justify-content: center;
     align-items: center;
